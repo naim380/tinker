@@ -2,39 +2,39 @@
 
     {
         "id":1,
-        "name":"Nike"
+        "name":"Bosh"
     },
     {
         "id":2,
-        "name":"Zara"
+        "name":"Facom"
     },
     {
         "id":3,
-        "name":"Adidas"
+        "name":"Black & Decker"
     },
     {
         "id":4,
-        "name":"Levi's"
+        "name":"Ryobi"
     },
     {
         "id":5,
-        "name":"H&M"
+        "name":"Peugeot"
     },
     {
         "id":6,
-        "name":"Lacoste"
+        "name":"Stanley"
     },
     {
         "id":7,
-        "name":"Calvin Klein"
+        "name":"Dremel"
     },
     {
         "id":8,
-        "name":"Tommy Hilfiger"
+        "name":"AEG"
     },
     {
         "id":9,
-        "name":"Guess"
+        "name":"Triton"
     }
 
 ]
