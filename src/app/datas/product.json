@@ -1,12 +1,11 @@
 [
     {
         "id":6,
-        "title":"Scie sans fil",
-        "description":" La scie sauteuse sans-fil GST 18V-LI S Professional est la plus puissante de la catégorie 18 V. Sa poignée champignon étroite assure une maîtrise parfaite même pour les coupes par en-dessous. Grâce au système SDS Bosch, les lames peuvent être changées facilement et sans clé. Ce modèle 18 V très performant assure une progression de travail rapide.",
+        "title":"Tondeuse Électrique",
+        "description":" Avec une largeur de coupe de 33 cm, notre tondeuse électrique 1300 W va pouvoir tondre rapidement votre pelouse. Elle est équipée du réglage centralisé de la hauteur de coupe sur 5 positions, de la technologie EasyEdge™ qui facilite la coupe au ras des murs et d'un bac semi-rigide d'une capacité de 35 L. Poignées ergonomiques double commande ajustables en hauteur Vertebrae™. Brancard ajustable en hauteur sur 3 positions, 2-en-1 ramassage et Mulching : bac de ramassage et obturateur pour basculer en fonction mulching. Indicateur de niveau de charge du bac. Grandes roues arrière pour une manoeuvrabilité simplifiée. Inclus : 1 obturateur pour la fonction mulching. Poids 9 kg.",
         "price":"4.99",
         "specific_price":"35,00",
         "nb_photo":2,
-        "size":"M",
         "condition":"New",
         "brand":"Ryobi",
         "sold":false,
@@ -17,18 +16,18 @@
         "user_star":4.5,
         "user_review":"25",
         "category_id":11,
-        "category_name":"Clothing"
+        "category_name":"ELectrique/batterie/moteur"
     },
     {
         "id":7,
-        "title":"Scie sans fil",
-        "description":" La scie sauteuse sans-fil GST 18V-LI S Professional est la plus puissante de la catégorie 18 V. Sa poignée champignon étroite assure une maîtrise parfaite même pour les coupes par en-dessous. Grâce au système SDS Bosch, les lames peuvent être changées facilement et sans clé. Ce modèle 18 V très performant assure une progression de travail rapide.",
+        "title":"Marteau",
+        "description":"Marteau de bonne facture",
         "price":"88.30",
         "specific_price":"185,43",
         "nb_photo":3,
         "size":"40",
         "condition":"New",
-        "brand":"Jordan",
+        "brand":"HR",
         "sold":false,
         "fav":78,
         "viewed":75,
@@ -37,7 +36,7 @@
         "user_star":4,
         "user_review":"150",
         "category_id":24,
-        "category_name":"Shoes"
+        "category_name":"Menuiserie"
     },
     {
         "id":4,
@@ -55,7 +54,7 @@
         "user_star":4,
         "user_review":"52",
         "category_id":13,
-        "category_name":"Bags"
+        "category_name":"Menuiserie"
     },
     {
         "id":5,
@@ -63,9 +62,8 @@
         "description":" La scie sauteuse sans-fil GST 18V-LI S Professional est la plus puissante de la catégorie 18 V. Sa poignée champignon étroite assure une maîtrise parfaite même pour les coupes par en-dessous. Grâce au système SDS Bosch, les lames peuvent être changées facilement et sans clé. Ce modèle 18 V très performant assure une progression de travail rapide.",
         "price":"29.00",
         "nb_photo":1,
-        "size":"XS / 34 / 6",
         "condition":"New",
-        "brand":"bosh",
+        "brand":"Bosh",
         "sold":false,
         "fav":2,
         "viewed":113,
@@ -78,13 +76,12 @@
     },
     {
         "id":1,
-        "title":"perceuse à percussion",
-        "description":"La GSB 13 RE Professional est une perceuse filaire d’entrée de gamme à 1 vitesse très compacte. Sa grande légèreté (1,8 kg) et son carter de petites dimensions assurent une prise en main parfaite et une bonne maniabilité. Particulièrement robuste, elle est dotée d’un mandrin automatique endurant tout en métal. Qui plus est, cette perceuse à percussion offre des résultats de qualité professionnelle à un bon rapport prix/performance.",
+        "title":"Scie sauteuse 400 W",
+        "description":"Description: Gain de temps, économie d’efforts - Fonctions scie égoïne et fonction scie sauteuse - Gain de temps garanti avec le bouton-poussoir pour changer les lames sans outil - Polyvalente et rapide - L’interrupteur de sécurité empêche les démarrages intempestifs - Contrôle électronique sensible de la vitesse pour une coupe sûre et précise - Coupe différents matériaux comme le bois, le métal et le plastique",
         "price":"12.10",
         "nb_photo":1,
-        "size":"M",
         "condition":"Very good",
-        "brand":"Bosh",
+        "brand":"Black & Decker",
         "sold":false,
         "fav":15,
         "viewed":123,
@@ -98,13 +95,12 @@
 
     {
         "id":8,
-        "title":"Scie sans fil",
-        "description":" La scie sauteuse sans-fil GST 18V-LI S Professional est la plus puissante de la catégorie 18 V. Sa poignée champignon étroite assure une maîtrise parfaite même pour les coupes par en-dessous. Grâce au système SDS Bosch, les lames peuvent être changées facilement et sans clé. Ce modèle 18 V très performant assure une progression de travail rapide.",
+        "title":"Jeu de 4 pinces Facom : Pince coupante diagonale, universelle, demi-ronde becs longs et multiprise",
+        "description":" Ces pinces de haute qualité possèdent des poignées ergonomiques qui vous offrirons une bonne prise en main et un confort d'utilisation",
         "price":"16.00",
         "nb_photo":1,
-        "size":"M",
         "condition":"Very good",
-        "brand":"FACOM",
+        "brand":"Facom",
         "sold":true,
         "fav":8,
         "viewed":233,
@@ -123,7 +119,6 @@
         "price":"18.00",
         "nb_photo":1,
         "specific_price":"35,00",
-        "size":"L / 40 / 12",
         "condition":"New with tags",
         "brand":"Black & Decker",
         "sold":false,
@@ -139,13 +134,12 @@
 
     {
         "id":3,
-        "title":"Scie sans fil",
+        "title":"Tourne vis",
         "description":" La scie sauteuse sans-fil GST 18V-LI S Professional est la plus puissante de la catégorie 18 V. Sa poignée champignon étroite assure une maîtrise parfaite même pour les coupes par en-dessous. Grâce au système SDS Bosch, les lames peuvent être changées facilement et sans clé. Ce modèle 18 V très performant assure une progression de travail rapide.",
         "price":"120.00",
         "nb_photo":2,
-        "size":"38",
         "condition":"Very good",
-        "brand":"Louis Vuitton",
+        "brand":"Facom",
         "sold":true,
         "fav":8,
         "viewed":233,
